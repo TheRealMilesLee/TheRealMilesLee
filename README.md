@@ -32,9 +32,9 @@ Following Documents: https://github.com/TheRealMilesLee/Truman-CS180-Documents
 I just a student learning the C++, so the code is not the perfect, and it may have a lot errors, and some of them were given by the instructor, so the code style may looks so different, and pleas ignore that issue.
 
 ### A poem for you
-<font face="Italic" color=grey>
+<font face="Italic" color=grey>Beautiful is better than ugly.</font>
   
-Beautiful is better than ugly.
+
 
 Explicit is better than implicit.
 
@@ -72,6 +72,6 @@ If the implementation is easy to explain, it may be a good idea.
 
 Namespaces are one honking great idea -- let's do more of those!
 
-</font>
+
 
 
