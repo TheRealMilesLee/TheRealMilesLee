@@ -10,9 +10,7 @@ Here is Miles Lee's page!
 ### Previous Project
   - Truman Computer Science Project
   
-  |  📎[Fall2019-CS180](https://github.com/TheRealMilesLee/Truman-CS180-Course) |
- 
-  |  🖇[Spring2020-CS180](https://github.com/TheRealMilesLee/Spring2020-CS180)  ｜
+  |  📎[Fall2019-CS180](https://github.com/TheRealMilesLee/Truman-CS180-Course)  |  🖇[Spring2020-CS180](https://github.com/TheRealMilesLee/Spring2020-CS180)  ｜
   - Wallpaper Collection
   
     🌈 [The Marvelous Wallpaper Collection](https://github.com/TheRealMilesLee/The-Wallpaper-Collection)
