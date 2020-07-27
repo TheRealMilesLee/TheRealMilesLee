@@ -32,7 +32,7 @@ Following Documents: https://github.com/TheRealMilesLee/Truman-CS180-Documents
 I just a student learning the C++, so the code is not the perfect, and it may have a lot errors, and some of them were given by the instructor, so the code style may looks so different, and pleas ignore that issue.
 
 ### A poem for you
-<font face="Italic" color=grey>Beautiful is better than ugly.</font>
+<font face="Times New Roman" color=grey>Beautiful is better than ugly.</font>
   
 
 
