@@ -2,8 +2,8 @@
 
 Here is Miles Lee's page!
 
-- 🔭 I’m currently working on network security
-- 🌱 I’m currently learning the Object-oriented programming with C++
+- 🔭 I’m currently working on [Wechat mini-program for Truman State University](https://github.com/TheRealMilesLee/WechatDeveloper)
+- 🌱 I’m currently learning the Compiler and database
 - 📫 How to reach me: hl3265@trumaan.edu
 - ⚡ Fun fact: nerd as you think
 
