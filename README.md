@@ -33,3 +33,8 @@ Following Documents: https://github.com/TheRealMilesLee/Truman-CS180-Documents
 
 ### Disclaimer
 I just a student learning the C++, so the code is not the perfect, and it may have a lot errors, and some of them were given by the instructor, so the code style may looks so different, and pleas report that issue.
+
+### Experience
+- May 2021, Volunteer in  IEEE PRML/NLP conference 2021
+- May 2022, Internship at university of North America
+
