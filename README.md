@@ -38,4 +38,4 @@ I just a student learning the C++, so the code is not the perfect, and it may ha
 - May 2021, Volunteer in  IEEE PRML/NLP conference 2021
 - May 2022, Internship at university of North America
 ### Github Stats
-[![TheRealMilesLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealMilesLee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![TheRealMilesLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealMilesLee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
