@@ -21,7 +21,7 @@ Here is Miles Lee's page!
 
     📱 [iOS Developting Study](https://github.com/TheRealMilesLee/iOS-Developing-Study)
 
-### External Link
+## External Link
 
 About Dr.Rahman: <https://www.truman.edu/faculty-staff/kafi/>
 
@@ -33,15 +33,16 @@ About the Truman State University: <https://www.truman.edu/>
 
 Following Documents: <https://github.com/TheRealMilesLee/Truman-CS180-Documents>
 
-### Disclaimer
+## Disclaimer
 
 I just a student learning the C++, so the code is not the perfect, and it may have a lot errors, and some of them were given by the instructor, so the code style may looks so different, and pleas report that issue.
 
-### Experience
+## Experience
 
 - May 2021, Volunteer in  IEEE PRML/NLP conference 2021
 - May 2022, Internship at university of North America
 
+## Github Hightlights
 
 [![TheRealMilesLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealMilesLee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealMilesLee&theme=radical&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
