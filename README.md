@@ -46,6 +46,4 @@ I just a student learning the C++, so the code is not the perfect, and it may ha
 
 [![TheRealMilesLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealMilesLee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealMilesLee&theme=radical&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheRealMilesLee&repo=WechatDeveloper&show_icons=true&theme=tokyonight)](https://github.com/The-Fabulous-Truman-Developer/WechatDeveloper) &emsp; 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheRealMilesLee&repo=MusicPlayer-macOS&show_icons=true&theme=tokyonight)](https://github.com/TheRealMilesLee/MusicPlayer-macOS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheRealMilesLee&repo=WechatDeveloper&show_icons=true&theme=tokyonight)](https://github.com/The-Fabulous-Truman-Developer/WechatDeveloper) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheRealMilesLee&repo=MusicPlayer-macOS&show_icons=true&theme=tokyonight)](https://github.com/TheRealMilesLee/MusicPlayer-macOS)
