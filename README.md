@@ -10,9 +10,7 @@ Welcome to Miles Lee's Page
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-192133?style=flat-square&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
-
 ![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=figma&logoColor=white)
-
 ![C](https://img.shields.io/badge/-C-192133?style=flat-square&logo=figma&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=figma&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-192133?style=flat-square&logo=figma&logoColor=white)
