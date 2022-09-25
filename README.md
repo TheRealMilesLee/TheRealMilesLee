@@ -1,11 +1,19 @@
-# Hi there 👋
+# The code is what makes us come alive
 
-Here is Miles Lee's page!
+Welcome to Miles Lee's Page
 
-- 🔭 I’m currently working on [Wechat mini-program for Truman State University](https://github.com/TheRealMilesLee/WechatDeveloper)
-- 🌱 I’m currently learning the Compiler and database
-- 📫 How to reach me: hl3265@trumaan.edu
-- ⚡ Fun fact: nerd as you think
+- This is what I'm working on [MusicPlayer on macOS](https://github.com/TheRealMilesLee/MusicPlayer-macOS)
+- Compiler and database is what I'm study on
+- Any questions? Contact me at [This address](hl3265@truman.edu)
+
+## Tech Stack
+![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
+![C++]((https://img.shields.io/badge/-C++-192133?style=flat-square&logo=figma&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-192133?style=flat-square&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
+![C]((https://img.shields.io/badge/-C-192133?style=flat-square&logo=figma&logoColor=white)
+![Java]((https://img.shields.io/badge/-Java-192133?style=flat-square&logo=figma&logoColor=white)
+![HTML]((https://img.shields.io/badge/-HTML-192133?style=flat-square&logo=figma&logoColor=white)
 
 ## Previous Project
 
