@@ -14,6 +14,7 @@ Welcome to Miles Lee's Page
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=figma&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-192133?style=flat-square&logo=figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-192133?style=flat-square&logo=figma&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-192133?style=flat-square&logo=swift&logoColor=white)
 ## Previous Project
 
 - Truman Computer Science Project
