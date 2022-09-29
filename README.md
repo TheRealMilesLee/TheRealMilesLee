@@ -11,7 +11,7 @@ Welcome to Miles Lee's Page
 ![PHP](https://img.shields.io/badge/-PHP-192133?style=flat-square&logo=PHP&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
 ![C/C++](https://img.shields.io/badge/-C/C++-192133?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=figma&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-192133?style=flat-square&logo=android&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-192133?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-192133?style=flat-square&logo=javascript&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-Swift-192133?style=flat-square&logo=swift&logoColor=white)
