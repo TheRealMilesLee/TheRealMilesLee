@@ -20,7 +20,7 @@ Welcome to Miles Lee's Page
 ![MIPS](https://img.shields.io/badge/-MIPS-192133?style=flat-square&logo=assemblyscript&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-192133?style=flat-square&logo=Docker&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-192133?style=flat-square&logo=pytorch&logoColor=white)
-![VMWare](https://img.shields.io/badge/-VMWare-192133?style=flat-square&logo=vmware&logoColor=white)
+![WeChat](https://img.shields.io/badge/-WeChat-192133?style=flat-square&logo=wechat&logoColor=white)
 ## Previous Project
 
 - Truman Computer Science Project
