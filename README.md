@@ -18,6 +18,7 @@ Welcome to Miles Lee's Page
 ![Bash](https://img.shields.io/badge/-Bash-192133?style=flat-square&logo=figma&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-192133?style=flat-square&logo=Tensorflow&logoColor=white)
 ![MIPS](https://img.shields.io/badge/-MIPS-192133?style=flat-square&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-192133?style=flat-square&logo=Docker&logoColor=white)
 ## Previous Project
 
 - Truman Computer Science Project
