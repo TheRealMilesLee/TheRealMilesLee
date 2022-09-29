@@ -15,7 +15,8 @@ Welcome to Miles Lee's Page
 ![HTML](https://img.shields.io/badge/-HTML-192133?style=flat-square&logo=figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-192133?style=flat-square&logo=figma&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-Swift-192133?style=flat-square&logo=swift&logoColor=white)
-![Bash](https://img.shields.io/badge/-Swift-192133?style=flat-square&logo=bash&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-192133?style=flat-square&logo=figma&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-192133?style=flat-square&logo=Tensorflow&logoColor=white)
 ## Previous Project
 
 - Truman Computer Science Project
