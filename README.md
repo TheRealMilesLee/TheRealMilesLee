@@ -13,7 +13,7 @@ Welcome to Miles Lee's Page
 ![C/C++](https://img.shields.io/badge/-C/C++-192133?style=flat-square&logo=#00599C&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=figma&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-192133?style=flat-square&logo=#E34F26&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-192133?style=flat-square&logo=#F7DF1E&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-192133?style=flat-square&logo=javascript&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-Swift-192133?style=flat-square&logo=swift&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-192133?style=flat-square&logo=#4EAA25&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-192133?style=flat-square&logo=Tensorflow&logoColor=white)
