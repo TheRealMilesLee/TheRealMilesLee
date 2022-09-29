@@ -10,14 +10,14 @@ Welcome to Miles Lee's Page
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-192133?style=flat-square&logo=PHP&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C/C++-192133?style=flat-square&logo=#00599C&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C/C++-192133?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=figma&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-192133?style=flat-square&logo=#E34F26&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-192133?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-192133?style=flat-square&logo=javascript&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-Swift-192133?style=flat-square&logo=swift&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-192133?style=flat-square&logo=#4EAA25&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-192133?style=flat-square&logo=gnubash&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-192133?style=flat-square&logo=Tensorflow&logoColor=white)
-![MIPS](https://img.shields.io/badge/-MIPS-192133?style=flat-square&logo=#007AAC)
+![MIPS](https://img.shields.io/badge/-MIPS-192133?style=flat-square&logo=assemblyscript&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-192133?style=flat-square&logo=Docker&logoColor=white)
 ## Previous Project
 
