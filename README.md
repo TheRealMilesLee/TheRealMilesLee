@@ -1,10 +1,9 @@
 # The code is what makes us come alive
-
-Welcome to Miles Lee's Page
+Hi there, glad you came. Take a seat and checking some of my projects!
 
 - This is what I'm working on [MusicPlayer on macOS](https://github.com/TheRealMilesLee/MusicPlayer-macOS)
-- Compiler and database is what I'm study on
-- Any questions? Contact me at [This address](hl3265@truman.edu)
+- I'm interesting in distributed systems and cyber security
+- Any questions? Contact me at [This address](trdli@ucdavis.edu)
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
@@ -21,7 +20,7 @@ Welcome to Miles Lee's Page
 ![Docker](https://img.shields.io/badge/-Docker-192133?style=flat-square&logo=Docker&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-192133?style=flat-square&logo=pytorch&logoColor=white)
 ![WeChat](https://img.shields.io/badge/-WeChat-192133?style=flat-square&logo=wechat&logoColor=white)
-## Previous Project
+## Projects at Truman State University
 
 - Truman Computer Science Project
 
