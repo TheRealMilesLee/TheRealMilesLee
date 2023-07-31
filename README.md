@@ -8,14 +8,14 @@ Hi there, glad you came. Take a seat and checking some of my projects!
 Welcome to my GitHub! I'm a passionate computer science enthusiast with a bachelor's degree from Truman State University and currently pursuing a Master's degree in Computer Science at the prestigious University of California - Davis.<br><br>My journey in the world of technology has been a thrilling one, and my interests span across various domains. From software engineering and security to hardware engineering, IT, and networks, I'm always eager to explore and expand my knowledge.<br><br>With a keen eye for innovation and a love for coding, I've worked on some exciting projects that showcase my skills and dedication. One of my projects is a macOS music player, meticulously crafted in pure Swift and SwiftUI, offering a seamless user experience and elegant design.<br><br>In addition to that, I've also successfully developed a WeChat Mini program, skillfully utilized for marketing in the Asian area, demonstrating my adaptability to diverse cultural and technical landscapes.<br><br>I take pride in my versatility as a programmer, being proficient in various languages, including C++, C, Python, JavaScript, HTML, PHP, CSS, MIPS, Swift, SwiftUI, and Java. Being an avid user of both Linux and macOS, I enjoy exploring the vast possibilities these systems offer.<br><br>As I embark on my GitHub journey, I look forward to collaborating with fellow developers, sharing knowledge, and creating impactful software that pushes the boundaries of technology. Thank you for stopping by, and I hope you find my projects intriguing and inspiring.<br><br>Feel free to contact me via email at trdli@ucdavis.edu for any inquiries or collaboration opportunities. Let's code and create together!
 
 ## Truman Computer Science Project
-[![C/C++](https://img.shields.io/badge/-C/C++-192133?style=flat-square&logo=cplusplus&logoColor=white) [2019:    CS-180](https://github.com/TheRealMilesLee/Truman-CS180-Course)
-[![C/C++](https://img.shields.io/badge/-C/C++-192133?style=flat-square&logo=cplusplus&logoColor=white)[2020:    CS-180](https://github.com/TheRealMilesLee/Spring2020-CS180)
-[![C/C++](https://img.shields.io/badge/-C/C++-192133?style=flat-square&logo=cplusplus&logoColor=white)[2021:    CS-181](https://github.com/TheRealMilesLee/Spring2021-CS181)
-[![C/C++](https://img.shields.io/badge/-C/C++-192133?style=flat-square&logo=cplusplus&logoColor=white)[2021:    CS-250](https://github.com/TheRealMilesLee/CS-250)
+[![2019:    CS-180](https://img.shields.io/badge/-C/C++-192133?style=flat-square&logo=cplusplus&logoColor=white) (https://github.com/TheRealMilesLee/Truman-CS180-Course)]
+[![2020:    CS-180](https://img.shields.io/badge/-C/C++-192133?style=flat-square&logo=cplusplus&logoColor=white)[](https://github.com/TheRealMilesLee/Spring2020-CS180)]
+[![2021:    CS-181](https://img.shields.io/badge/-C/C++-192133?style=flat-square&logo=cplusplus&logoColor=white) (https://github.com/TheRealMilesLee/Spring2021-CS181)]
+[![2021:    CS-250](https://img.shields.io/badge/-C/C++-192133?style=flat-square&logo=cplusplus&logoColor=white)(https://github.com/TheRealMilesLee/CS-250)]
 [[2021:    CS-260](https://github.com/TheRealMilesLee/CS-260)]
-[![C/C++](https://img.shields.io/badge/-C/C++-192133?style=flat-square&logo=cplusplus&logoColor=white)[2022:    CS-310](https://github.com/TheRealMilesLee/CS-310)
-[![HTML](https://img.shields.io/badge/-HTML-192133?style=flat-square&logo=html5&logoColor=white)[2022:    CS-315](https://github.com/TheRealMilesLee/CS-315)
-[![MIPS](https://img.shields.io/badge/-MIPS-192133?style=flat-square&logo=assemblyscript&logoColor=white)[2022:     CS330](https://github.com/TheRealMilesLee/CS-330)
+[![2022:    CS-310](https://img.shields.io/badge/-C/C++-192133?style=flat-square&logo=cplusplus&logoColor=white)(https://github.com/TheRealMilesLee/CS-310)]
+[![2022:    CS-315](https://img.shields.io/badge/-HTML-192133?style=flat-square&logo=html5&logoColor=white)(https://github.com/TheRealMilesLee/CS-315)]
+[![2022:     CS330](https://img.shields.io/badge/-MIPS-192133?style=flat-square&logo=assemblyscript&logoColor=white)(https://github.com/TheRealMilesLee/CS-330)]
 
 ## Wallpaper Collection
 
