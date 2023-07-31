@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a passionate computer science enthusiast with a bachel
 
     📎[Fall2019-CS180](https://github.com/TheRealMilesLee/Truman-CS180-Course)  |  📎[Spring2020-CS180](https://github.com/TheRealMilesLee/Spring2020-CS180) |📎[Spring2021-CS181](https://github.com/TheRealMilesLee/Spring2021-CS181) | 📎[Fall2021-CS250](https://github.com/TheRealMilesLee/CS-250) | 📎[Fall2021-CS260](https://github.com/TheRealMilesLee/CS-260) |
 
-    📎[Spring2022-CS310](https://github.com/TheRealMilesLee/CS-310) | 📎[Spring2022-CS315](https://github.com/TheRealMilesLee/CS-315) | 📎[Spring2022-CS330](https://github.com/TheRealMilesLee/CS-330) | 📎[Fall2022-CS420](https://github.com/TheRealMilesLee/CS-420) | 📎[Fall2022-CS430](https://github.com/TheRealMilesLee/CS-430)
+    📎[Spring2022-CS310](https://github.com/TheRealMilesLee/CS-310) | 📎[Spring2022-CS315](https://github.com/TheRealMilesLee/CS-315) | 📎[Spring2022-CS330](https://github.com/TheRealMilesLee/CS-330) | 📎[Fall2022-CS420](https://github.com/TheRealMilesLee/CS-420) | 📎[Fall2022-CS430](https://github.com/TheRealMilesLee/CS-430) |
 - Wallpaper Collection
 
     🌈 [The Marvelous Wallpaper Collection](https://github.com/TheRealMilesLee/The-Wallpaper-Collection)
