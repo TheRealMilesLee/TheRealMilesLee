@@ -31,9 +31,6 @@ Welcome to my GitHub! I'm a passionate computer science enthusiast with a bachel
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TheRealMilesLee&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ### External Link
 
 About Dr.Rahman: <https://www.truman.edu/faculty-staff/kafi/>
@@ -54,11 +51,9 @@ I just a student learning the C++, so the code is not the perfect, and it may ha
 
 - May 2021, Volunteer in  IEEE PRML/NLP conference 2021
 - May 2022, Internship at university of North America
+- Octover 2023, Student Computer Technician at UCDavis
 
 ### Github Hightlights
-
-[![TheRealMilesLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealMilesLee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealMilesLee&theme=radical&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheRealMilesLee&repo=WechatDeveloper&show_icons=true&theme=tokyonight)](https://github.com/The-Fabulous-Truman-Developer/WechatDeveloper) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheRealMilesLee&repo=MusicPlayer-macOS&show_icons=true&theme=tokyonight)](https://github.com/TheRealMilesLee/MusicPlayer-macOS)
 
 ---
