@@ -37,14 +37,14 @@ About Dr.Rahman: <https://www.truman.edu/faculty-staff/kafi/>
 
 About Dr.Beck: <http://borax.truman.edu/>
 
-contact me: hl3265@truman.edu or grandtheftauto710@outlook.com
+contact me: trdli@ucdavis.edu or grandtheftauto710@outlook.com
 
 About the Truman State University: <https://www.truman.edu/>
 
 Following Documents: <https://github.com/TheRealMilesLee/Truman-CS180-Documents>
 
 ### Disclaimer
-We're human, and human does make mistakes. We're vulnerable, with your help, we can be stronger
+We're human, and humans does make mistakes. We're vulnerable, with your help, we can be stronger
 
 ### Experience
 
