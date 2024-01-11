@@ -80,7 +80,7 @@ About the UCDavis <https://www.ucdavis.edu/>
 Personal Website <https://coderlee.tech.blog>
 
 ### Disclaimer
-We're human, and human does make mistakes. We're vulnerable, with your help, we can be stronger
+We're human, and humans does make mistakes. We're vulnerable, with your help, we can be stronger
 
 ### Experience
 
