@@ -1,11 +1,49 @@
 # The code is what makes us come alive
-Hi there, glad you came. Take a seat and checking some of my projects!
+Hey there, welcome to my GitHub!
 
-- This is what I'm working on [MusicPlayer on macOS](https://github.com/TheRealMilesLee/MusicPlayer-macOS)
-- Any questions? Contact me at [This address](trdli@ucdavis.edu)
+# About Me
 
-# 💫 About Me:
-Welcome to my GitHub! I'm a passionate computer science enthusiast with a bachelor's degree from Truman State University and currently pursuing a Master's degree in Computer Science at the prestigious University of California - Davis.<br><br>My journey in the world of technology has been a thrilling one, and my interests span across various domains. From software engineering and security to hardware engineering, IT, and networks, I'm always eager to explore and expand my knowledge.<br><br>With a keen eye for innovation and a love for coding, I've worked on some exciting projects that showcase my skills and dedication. One of my projects is a macOS music player, meticulously crafted in pure Swift and SwiftUI, offering a seamless user experience and elegant design.<br><br>In addition to that, I've also successfully developed a WeChat Mini program, skillfully utilized for marketing in the Asian area, demonstrating my adaptability to diverse cultural and technical landscapes.<br><br>I take pride in my versatility as a programmer, being proficient in various languages, including C++, C, Python, JavaScript, HTML, PHP, CSS, MIPS, Swift, SwiftUI, and Java. Being an avid user of both Linux and macOS, I enjoy exploring the vast possibilities these systems offer.<br><br>As I embark on my GitHub journey, I look forward to collaborating with fellow developers, sharing knowledge, and creating impactful software that pushes the boundaries of technology. Thank you for stopping by, and I hope you find my projects intriguing and inspiring.<br><br>Feel free to contact me via email at trdli@ucdavis.edu for any inquiries or collaboration opportunities. Let's code and create together!
+👋 Hello, this is Miles Lee, a passionate Computer Science graduate student at the University of California – Davis, specializing in GFW Security Analysis. With a solid academic foundation from Truman State University, where I majored in Computer Science, I have honed my skills in a diverse range of programming languages and technologies.
+
+## Skills
+
+- Proficient in Bash, C/C++, Java, Swift, Python, SQL, JS, PHP, CSS, HTML, MIPS.
+- Familiar with Electron, node.JS, Swift UI, React framework.
+- Experienced in Linux and Unix environments, including Kali Linux, Metasploit framework, and Nmap.
+- Skilled in server setup and maintenance, utilizing tools like Splunk, Ansible, and Nginx for efficient operations.
+- Well-versed in IT service desk workflows, with hands-on experience in troubleshooting and fixing hardware and software issues.
+
+## Experience
+
+### Current Position
+- **University of California – Student Computer Technician** (October 2023 – Present)
+  - Maintaining a busy lab and office environment, showcasing organizational skills.
+  - Handling configuration, troubleshooting, and repair of Mac and Windows hardware and system software.
+
+### Past Positions
+- **Truman State University – Computer Science Fundamentals Class Teaching Assistant** (January 2023 – May 2023)
+  - Graded student work, facilitated lab sessions, and provided constructive feedback to enhance coding skills.
+
+- **University of North America – System Administrator** (May 2022 – August 2022)
+  - Implemented load balancing solutions, conducted server maintenance, and protected networks from external threats.
+
+- **Truman State University – Admission Office** (January 2021 – Spring 2023)
+  - Managed admissions processes, assisted prospective applicants, and participated in recruitment initiatives.
+
+## Projects
+
+### Notable Projects
+- [**Electron Latex**](https://github.com/TheRealMilesLee/Random-ideas/tree/master/ElectronLatex)
+  - Developed an offline LaTeX editor app based on Electron, simplifying document editing.
+
+- [**WeChat Mini-program Project**](https://github.com/The-Fabulous-Truman-Developer/WechatDeveloper)
+  - Founded and led a team to create a WeChat mini-program, accepted as an official marketing platform by the CIS office.
+
+- [**Peace – A macOS Music Player**](https://github.com/TheRealMilesLee/MusicPlayer-macOS)
+  - Created a macOS music player as a graduation capstone project, featuring Swift and Swift UI.
+
+I am enthusiastic about tackling complex challenges, contributing to innovative projects, and continuously expanding my knowledge in the dynamic field of Computer Science. Connect with me on [GitHub](https://github.com/TheRealMilesLee) or [LinkedIn](https://linkedin.com/in/hengyi-li-968744191) to explore collaborations and opportunities!
+
 
 ## Projects at Truman State University
 - Truman Computer Science Project
@@ -33,15 +71,13 @@ Welcome to my GitHub! I'm a passionate computer science enthusiast with a bachel
 
 ### External Link
 
-About Dr.Rahman: <https://www.truman.edu/faculty-staff/kafi/>
-
-About Dr.Beck: <http://borax.truman.edu/>
-
-contact me: hl3265@truman.edu or grandtheftauto710@outlook.com
+contact me: trdli@ucdavis.edu or grandtheftauto710@outlook.com
 
 About the Truman State University: <https://www.truman.edu/>
 
-Following Documents: <https://github.com/TheRealMilesLee/Truman-CS180-Documents>
+About the UCDavis <https://www.ucdavis.edu/>
+
+Personal Website <https://coderlee.tech.blog>
 
 ### Disclaimer
 We're human, and human does make mistakes. We're vulnerable, with your help, we can be stronger
