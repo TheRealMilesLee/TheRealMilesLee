@@ -5,13 +5,34 @@ Hey there, welcome to my GitHub!
 
 👋 Hello, this is Miles Lee, a passionate Computer Science graduate student at the University of California – Davis, specializing in GFW Security Analysis. With a solid academic foundation from Truman State University, where I majored in Computer Science, I have honed my skills in a diverse range of programming languages and technologies.
 
-## Skills
+### 📊 WakaTime
 
-- Proficient in Bash, C/C++, Java, Swift, Python, SQL, JS, PHP, CSS, HTML, MIPS.
-- Familiar with Electron, node.JS, Swift UI, React framework.
-- Experienced in Linux and Unix environments, including Kali Linux, Metasploit framework, and Nmap.
-- Skilled in server setup and maintenance, utilizing tools like Splunk, Ansible, and Nginx for efficient operations.
-- Well-versed in IT service desk workflows, with hands-on experience in troubleshooting and fixing hardware and software issues.
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Miles_Lee&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Miles_Lee&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Miles_Lee&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+</picture>
+
+
+
+
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TheRealMilesLee&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TheRealMilesLee&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheRealMilesLee&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
 
 ## Experience
 
