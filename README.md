@@ -91,6 +91,3 @@ I am a passionate Computer Science graduate student at the University of Califor
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hengyi-li-968744191)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheRealMilesLee)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trdli@ucdavis.edu)
-
----
-[![Visitor Count](https://visitcount.itsvg.in/api?id=TheRealMilesLee&icon=0&color=0)](https://visitcount.itsvg.in)
