@@ -1,8 +1,19 @@
 # 👨‍💻 Hengyi Li | DevOps Engineer & Full-stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hengyi%20Li-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hengyi-li-968744191)
-[![GitHub](https://img.shields.io/badge/GitHub-TheRealMilesLee-black?style=for-the-badge&logo=github)](https://github.com/TheRealMilesLee)
-[![Email](https://img.shields.io/badge/Email-trdli@ucdavis.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trdli@ucdavis.edu)
+<p align="center">
+  <a href="mailto:trdli@ucdavis.edu" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/hengyi-li-968744191" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/TheRealMilesLee" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://therealmileslee.github.io" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Firefox&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -71,16 +82,50 @@ DevOps engineer and systems developer passionate about building **high-availabil
 ## 🧰 Tech Stack
 
 ### 🚀 Programming
-`Python` · `C/C++` · `JavaScript/Node.js` · `Go` · `Bash` · `SwiftUI` · `SQL`
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ### 🖧 Infrastructure & DevOps
-`Docker` · `Kubernetes` · `GitHub Actions` · `GitLab CI` · `Ansible` · `Proxmox VE` · `Splunk` · `Apple MDM / Jamf`
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proxmox-444444?style=for-the-badge&logo=proxmox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apple%20MDM-grey?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
 
 ### 💻 Web & Application
-`React.js` · `D3.js` · `MongoDB` · `PostgreSQL` · `Redis` · `REST API` · `CoreML` · `Nginx` · `ServiceNow`
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CoreML-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ServiceNow-1E8449?style=for-the-badge&logo=servicenow&logoColor=white"/>
+</p>
 
 ### 🔐 Security
-`Wireshark` · `GPO/MDM Compliance` · `Firewall Config` · `Phishing Detection` · `ISO 27001 Audits`
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPO/MDM-4285F4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firewall_Config-FF6F00?style=for-the-badge&logo=fortinet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phishing_Detection-F50057?style=for-the-badge&logo=secure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ISO_27001-007396?style=for-the-badge&logo=trustpilot&logoColor=white"/>
+</p>
 
 ---
 
@@ -111,3 +156,5 @@ Full Presidential Honorary Scholar · Dean’s List every semester
 - 🌐 [therealmileslee.github.io](https://therealmileslee.github.io)
 - 🔗 [linkedin.com/in/hengyi-li-968744191](https://linkedin.com/in/hengyi-li-968744191)
 
+---
+*Last updated: May 2025*
