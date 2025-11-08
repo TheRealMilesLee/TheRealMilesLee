@@ -1,4 +1,4 @@
-# 👨‍💻 Hengyi Li | DevOps Engineer & Full-stack Developer
+# 👨‍💻 Hengyi Li | DevOps Engineer
 
 <p align="center">
   <a href="mailto:trdli@ucdavis.edu" target="_blank">
@@ -19,14 +19,23 @@
 
 ## 🧠 Summary
 
-DevOps engineer and systems developer passionate about building **high-availability CI/CD infrastructure**, automating systems at scale, and delivering **reliable backend software**. Proven ability to optimize build pipelines, containerize complex legacy systems, and deliver business continuity under failure scenarios.
+DevOps engineer specializing in **cloud infrastructure operations**, **SRE practices**, and **high-availability systems**. Currently working on IT operations, networking, Kubernetes orchestration, and multi-cloud management (Aliyun & AWS). Experienced in automating CI/CD pipelines, containerizing legacy systems, and ensuring business continuity.
 
-📍 MS in Computer Science @ UC Davis
-🎯 Focus: Infrastructure Automation · Distributed Systems · Applied Security
+📍 MS in Computer Science from UC Davis (Graduated June 2025)
+🎯 Focus: Cloud Operations · SRE · Kubernetes · Infrastructure Automation
 
 ---
 
 ## 💼 Professional Experience
+
+### 🚀 DevOps Engineer | **Advance Intelligence Group**
+*Sep 2025 – Present · Beijing, China*
+
+- Managing cloud infrastructure operations across Aliyun and AWS platforms
+- Implementing SRE practices and maintaining high-availability production systems
+- Orchestrating containerized applications using Kubernetes in multi-cloud environments
+- Handling IT operations, network infrastructure, and security compliance
+- Automating deployment pipelines and infrastructure provisioning
 
 ### 🛠️ DevOps Engineering Intern | **Antiy Lab**
 *Jun 2024 – Aug 2024*
@@ -97,6 +106,8 @@ DevOps engineer and systems developer passionate about building **high-availabil
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aliyun-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
@@ -141,7 +152,7 @@ DevOps engineer and systems developer passionate about building **high-availabil
 ## 🎓 Education
 
 **University of California, Davis**
-*MS in Computer Science* · GPA: 3.6 · Sep 2023 – Jun 2025
+*MS in Computer Science* · GPA: 3.6 · Sep 2023 – Jun 2025 (Graduated)
 Key Areas: Machine Learning · Operating Systems · Network Architecture
 
 **Truman State University**
@@ -157,4 +168,4 @@ Full Presidential Honorary Scholar · Dean’s List every semester
 - 🔗 [linkedin.com/in/hengyi-li-968744191](https://linkedin.com/in/hengyi-li-968744191)
 
 ---
-*Last updated: May 2025*
+*Last updated: November 2025*
