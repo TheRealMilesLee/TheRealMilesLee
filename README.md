@@ -50,7 +50,7 @@ More stories: **[Portfolio](https://therealmileslee.github.io)**
 </p>
 
 <p align="center">
-  <a href="https://github.com/TheRealMilesLee/K8s-Grafana"><img alt="K8s-Grafana" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealMilesLee&repo=K8s-Grafana&theme=catppuccin_mocha" /></a>
+  <a href="https://github.com/TheRealMilesLee/K8s-Grafana#"><img alt="K8s-Grafana" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealMilesLee&repo=K8s-Grafana&theme=catppuccin_mocha" /></a>
   <a href="https://github.com/TheRealMilesLee/GFW-Research"><img alt="GFW-Research" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealMilesLee&repo=GFW-Research&theme=catppuccin_mocha" /></a>
   <a href="https://github.com/TheRealMilesLee/MusicPlayer-macOS"><img alt="MusicPlayer-macOS" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealMilesLee&repo=MusicPlayer-macOS&theme=catppuccin_mocha" /></a>
   <a href="https://github.com/TheRealMilesLee/SpamFilter"><img alt="SpamFilter" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealMilesLee&repo=SpamFilter&theme=catppuccin_mocha" /></a>
