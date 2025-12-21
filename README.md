@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 你好，我是 Miles Li
+# 👋 Hi, I'm Miles Li
 
 DevOps & Infrastructure Engineer · Kubernetes · Cloud · Automation
 
@@ -31,35 +31,17 @@ DevOps & Infrastructure Engineer · Kubernetes · Cloud · Automation
 
 ---
 
-## 🧭 关于我
+## 🧭 About
 
-- 专注多云基础设施（AWS / Aliyun）与 Kubernetes 规模化运维
-- 热爱自动化与可观测性，偏好“度量驱动”的工程文化
-- 常驻北京 / 开源爱好者 / 偏好 Linux 与现代工具链
+- DevOps/Infra engineer focusing on multi-cloud (AWS/Aliyun) and Kubernetes at scale
+- Metrics-first, automation-loving; observability and reliability by default
+- Based in Beijing · open-source enthusiast · Linux + modern toolchains
 
-更多详细背景与项目故事请移步：**[Portfolio](https://therealmileslee.github.io)**
-
-<details>
-  <summary>English Version</summary>
-
-  **About Me**
-  - DevOps & Infra engineer focusing on multi-cloud (AWS/Aliyun) and Kubernetes at scale
-  - Obsessed with automation and observability; metrics-first engineering culture
-  - Based in Beijing · Open-source enthusiast · Linux and modern toolchains
-
-  More stories and details: **[Portfolio](https://therealmileslee.github.io)**
-
-  **Featured Projects**
-  - GFW-Research: distributed network measurement on DNS filtering
-  - ECS272-FinalProject: full-stack data visualization platform
-  - MusicPlayer-macOS: native app with CoreML recommendations
-  - SpamFilter: phishing detection with ML + Chrome extension
-
-</details>
+More stories: **[Portfolio](https://therealmileslee.github.io)**
 
 ---
 
-## 🌟 精选项目
+## 🌟 Featured Repos
 
 <p align="center">
   <a href="https://github.com/TheRealMilesLee/Hyprland_dotfiles"><img alt="Hyprland_dotfiles" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealMilesLee&repo=Hyprland_dotfiles&theme=catppuccin_mocha" /></a>
@@ -74,11 +56,11 @@ DevOps & Infrastructure Engineer · Kubernetes · Cloud · Automation
   <a href="https://github.com/TheRealMilesLee/SpamFilter"><img alt="SpamFilter" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealMilesLee&repo=SpamFilter&theme=catppuccin_mocha" /></a>
 </p>
 
-更多仓库：**[查看全部项目 →](https://github.com/TheRealMilesLee?tab=repositories)**
+More repos: **[See all →](https://github.com/TheRealMilesLee?tab=repositories)**
 
 ---
 
-## 🛠️ 技术栈
+## 🛠️ Tech Stack
 
 **Infrastructure & Cloud**
 <p>
@@ -122,7 +104,7 @@ DevOps & Infrastructure Engineer · Kubernetes · Cloud · Automation
 
 ---
 
-## 📊 可视化统计
+## 📊 Stats
 
 <div align="center">
   <img alt="Miles's GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=TheRealMilesLee&show_icons=true&theme=catppuccin_mocha&rank_icon=github" />
@@ -140,24 +122,24 @@ DevOps & Infrastructure Engineer · Kubernetes · Cloud · Automation
 
 ---
 
-## 🔧 最近在折腾
+## 🔧 Currently hacking on
 
-- Hyprland 与 NixOS 配置：**Hyprland_dotfiles** / **NixOS-Config** / **NVim-Config**
-- K8s 可观测性：**K8s-Grafana**
-- 容器化环境与编排：**ContainerizedEnvironment**
+- Hyprland & NixOS configs: **Hyprland_dotfiles** / **NixOS-Config** / **NVim-Config**
+- K8s observability: **K8s-Grafana**
+- Containerized environments & orchestration: **ContainerizedEnvironment**
 
 ---
 
-## 📫 联系与更多
+## 📫 Connect
 
-- Portfolio：**https://therealmileslee.github.io**
-- 个人博客与笔记：**Zhihu-Special-Column**、**MarkdownFiles**
-- 如果你也对云原生/自动化/网络研究感兴趣，欢迎交流！
+- Portfolio: **https://therealmileslee.github.io**
+- Notes / blog: **Zhihu-Special-Column**, **MarkdownFiles**
+- Into cloud-native / automation / network research? Let's chat!
 
 ---
 
 <div align="right">
 
-<sub>最后更新：2025-12</sub>
+<sub>Last updated: 2025-12</sub>
 
 </div>
