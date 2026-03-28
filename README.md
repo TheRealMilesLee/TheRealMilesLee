@@ -39,7 +39,7 @@
 ## 🌟 Featured Projects | 精选项目
 
 <p align="center">
-  <a href="https://github.com/TheRealMilesLee/Oura"><img alt="Oura-Wallpaper-App" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealMilesLee&repo=iOS-WallpaperCollections&theme=catppuccin_mocha" /></a>
+  <a href="https://github.com/TheRealMilesLee/iOS-WallpaperCollections"><img alt="Oura-Wallpaper-App" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealMilesLee&repo=iOS-WallpaperCollections&theme=catppuccin_mocha" /></a>
   <a href="https://github.com/TheRealMilesLee/NixOS-Config"><img alt="NixOS-Config" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealMilesLee&repo=NixOS-Config&theme=catppuccin_mocha" /></a>
 </p>
 
