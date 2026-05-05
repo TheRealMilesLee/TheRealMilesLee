@@ -1,72 +1,72 @@
-# Miles Li
+# `whoami --profile miles.li`
 
-**Infrastructure Architect | Structural Rationalist**
-*Managing complexity through abstract modeling and deterministic engineering.*
+```yaml
+identity:
+  name: Miles Li (Hengyi Li)
+  role: Infrastructure Architect / DevOps Engineer
+  motto: "The system is the core; I am its architect."
+  logic: [Structural Rationalism, Complexity Reduction, Determinism]
+  education: M.S. in Computer Science @ UC Davis
+```
 
 ---
 
-## 🧩 Philosophy: Structural Rationalism
-> "Systems are not just tools; they are externalized cognitive models. I build to ensure self-consistency, clear boundaries, and controllable complexity."
+## 🧬 Cognitive Kernel (哲学内核)
 
-我倾向于先构建抽象模型再映射现实。对我而言，**可解释性**高于单纯的运行正确。我将工程视作一种审美实践，在技术底座与精神世界中追求对称、节制与长期一致性。
+> **"自洽、边界清晰与复杂度可控，本身就是更高层级的正确。"**
 
-- **Architectural Mantra:** Entropy reduction via automation; reproducible state via declaration.
-- **Cognitive Protocol:** High-density information exchange; modular problem decomposition.
-- **Core Vector:** Bridging the gap between kernel-level precision and high-level system design.
+我是一个以结构理性为内核的工程师，擅长通过抽象模型来压缩和解释现实的复杂度。对我而言，工程实践不仅是解决问题，更是一种审美——追求对称、节制与长期一致性。
 
 ---
 
 ## 🛠 Tech Stack (Systemic Mapping)
 
-### [ Infrastructure as Code & State ]
-- **Declarative:** NixOS (Flakes), Terraform (Terragrunt), Ansible.
-- **Orchestration:** Kubernetes (EKS/ACK), Helm, Cross-region Cluster Governance.
-- **Provider:** AWS (Multi-region: PH/ID/MY/US), Aliyun, Hybrid Cloud.
-
-### [ Middleware & Reliability Engineering ]
-- **Messaging:** Kafka & Zookeeper (Industrial-scale cross-version migration), RabbitMQ.
-- **Observability:** Prometheus/Grafana (Custom Exporters), ELK, Splunk.
-- **Networking:** Security Hardening, IAM Least Privilege, Network Architecture.
-
-### [ Development & Tooling ]
-- **Environment:** Ghostty, CachyOS, Cursor, JetBrains Mono.
-- **CI/CD:** GitHub Actions (Self-hosted runners), GitLab CI.
-- **Mobile:** SwiftUI (Focusing on Git-Ops-driven content delivery).
+| Domain | Technics Stack | Infrastructure Philosophy |
+| :--- | :--- | :--- |
+| **Orchestration** | `Kubernetes (EKS/ACK)`, `Helm`, `Docker` | **Immutability:** 声明式状态管理 |
+| **Infrastructure** | `Terraform`, `NixOS`, `AWS (PH/ID/MY)`, `Aliyun` | **Reproducibility:** 消除跨地域环境熵增 |
+| **Middleware** | `Kafka`, `Zookeeper`, `RabbitMQ` | **Hardening:** 工业级大规模集群治理与迁移 |
+| **Observability** | `Prometheus`, `Grafana`, `ELK`, `Splunk` | **Determinism:** 数据驱动的系统洞察 |
+| **Development** | `SwiftUI`, `Nix Flakes`, `GitHub Actions` | **Efficiency:** 高信息密度与自动化一切 |
 
 ---
 
-## 🚀 Impact & Projects
+## 🚀 Featured Projects (Pinned)
 
-### **Regional Middleware Migration (2026)**
-主导了覆盖东南亚多地（PH/ID/MY）的 Kafka、Zookeeper 与 RabbitMQ 集群平滑迁移与版本升级。通过结构化风险控制模型，确保了大规模生产环境下跨地域基础设施的确定性稳定性。
+### 📂 [K8s-Grafana](https://github.com/TheRealMilesLee/K8s-Grafana)
+**`Observability` `Kubernetes` `Monitoring`**
+大规模 Kubernetes 集群的观测性最佳实践。通过精细化的 Grafana 仪表盘与 Prometheus 指标定义，实现对系统行为的确定性掌控。
 
-### **Unified Portal & CMDB**
-正在构建企业级内部导航网关与统一配置管理数据库（CMDB），作为 DevOps 工具链的核心索引，实现资源从声明到治理的闭环。
+### 🖼️ [Oura (iOS-WallpaperCollections)](https://github.com/MilesCorporate/iOS-WallpaperCollections) & [The-Wallpaper-Collection](https://github.com/MilesCorporate/The-Wallpaper-Collection)
+**`SwiftUI` `Git-Ops` `Image-Asset`**
+探索工程化美学在移动端的落地。利用 GitHub 存储库作为内容源（The-Wallpaper-Collection），通过 CI/CD 自动化分发逻辑，实现高审美密度的视觉传递。
 
-### **Oura (iOS Wallpaper Engine)**
-基于 SwiftUI 开发的壁纸引擎。探索 **Git-Ops** 在移动端的延伸——将 GitHub 作为后端存储库，实现高审美密度的内容分发与工程化管理。
+### 🎵 [MusicPlayer-macOS](https://github.com/MilesCorporate/MusicPlayer-macOS)
+**`macOS-Native` `Swift` `Audio`**
+基于工程化极简主义开发的 macOS 原生播放器。在追求极致性能与节制交互的同时，内化音频信号为系统秩序的一部分。
 
-### **Compute Cluster "Pile-up"**
-实验性本地算力集群。利用 Nvidia Quadro P600 等低成本硬件进行分布式计算测试，践行“电子废弃物”的价值重构与系统级调优。
+### 🌐 **Multi-Region Middleware Migration (2026)**
+主导了东南亚多地域（PH/ID/MY）的 Kafka 与 RabbitMQ 集群平滑迁移。通过结构化风险控制，实现了复杂生产环境下跨地域基础设施的零感知升级。
 
 ---
 
-## 📈 Performance & Insights
+## 📊 System Telemetry
+
 <p align="left">
-  <img alt="Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=TheRealMilesLee&show_icons=true&theme=vsco&hide_border=true&title_color=000&icon_color=000&text_color=333" />
-  <img alt="Langs" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealMilesLee&layout=compact&theme=vsco&hide_border=true&title_color=000&text_color=333" />
+  <img alt="Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=TheRealMilesLee&show_icons=true&theme=vsco&hide_border=true&title_color=000&icon_color=000&text_color=333" />
+  <img alt="Langs" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealMilesLee&layout=compact&theme=vsco&hide_border=true&title_color=000&text_color=333" />
 </p>
 
 ---
 
-## 📡 Connectivity
-- **Abstracts:** [therealmileslee.github.io](https://therealmileslee.github.io)
+## 📡 Connectivity Protocol
+
+- **Wiki:** [therealmileslee.github.io](https://therealmileslee.github.io)
 - **Professional:** [LinkedIn](https://linkedin.com/in/hengyi-li-968744191)
-- **Academic:** M.S. in Computer Science, UC Davis
-- **Direct:** `echo "trdli@ucdavis.edu"`
+- **Handshake:** `trdli@ucdavis.edu`
 
 ---
 
 <div align="right">
-<sub>Status: Active & Scaling | Epoch: 2026.05 | Built with Rationality</sub>
+<sub>Built with <b>Rationality</b> | Last Reconciled: 2026-05-05</sub>
 </div>
